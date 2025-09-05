@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesroon</h1>
-<h3 align="center">A passionate beginner developer from India living in UAE</h3>
+<h3 align="center">A passionate beginner developer from India who loves Anime</h3>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3dzcXdjb3l5dTEwN3VnaDd3czVvb3N5aGx4N256am1rcHBjdnY4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SUlfJOJLzrlcc/giphy.gif" width="300"/>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesroonmshoby&label=Profile%20views&color=0e75b6&style=flat" alt="jesroonmshoby" /> </p>
 
