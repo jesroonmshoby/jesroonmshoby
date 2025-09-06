@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesroon</h1>
-<h3 align="center">A passionate beginner developer from India who loves Anime</h3>
+<h3 align="center">A passionate beginner from India who loves Anime</h3>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif" width="300"/>
