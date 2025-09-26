@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesroon</h1>
 <h3 align="center">A passionate beginner from India who loves Anime</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesroonmshoby&label=Profile%20views&color=0e75b6&style=flat" alt="jesroonmshoby" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesroonmshoby" alt="jesroonmshoby" /></a> </p>
-
 - 🔭 I’m currently working on **Quantra**
 
 - 🌱 I’m currently learning **MySQL**
@@ -28,6 +24,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesroonmshoby&show_icons=true&locale=en&layout=compact" alt="jesroonmshoby" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesroonmshoby&show_icons=true&locale=en" alt="jesroonmshoby" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesroonmshoby&label=Profile%20views&color=0e75b6&style=flat" alt="jesroonmshoby" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesroonmshoby" alt="jesroonmshoby" /></a> </p>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif" width="300"/>
