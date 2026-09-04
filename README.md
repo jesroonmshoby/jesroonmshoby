@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jesroon</h1>
+<h1 align="center">Hi 👋, I'm Jesroon </h1>
 <h3 align="center">A passionate beginner from India/h3>
 
 - 🔭 I’m currently working on **Quantra**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **jesroonmshoby@gmail.com**
 
