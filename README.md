@@ -16,13 +16,12 @@ $ whoami
 $ cat about.md
 ```
 
-I'm that guy who never had a five-year plan. Tried a bunch of stuff, didn't click, then landed on code — turns out it's the only thing that ever made sense to me on the first try. So I just kept going. No grand origin story — I just followed whatever felt right, and this is where I ended up. Still not entirely sure what's next, and that's fine,
+I'm that guy who never had a five-year plan. Tried a bunch of stuff, didn't click, then landed on code - turns out it's the only thing that ever made sense to me on the first try. So I just kept going. No grand origin story - I just followed whatever felt right, and this is where I ended up. Still not entirely sure what's next, and that's fine,
 
 ```bash
 $ ls -la ./currently/
 ```
-
-| | |
+|||
 |---|---|
 | 🔨 building | Something so secret, even i don't know |
 | 📖 learning | C Programming |
